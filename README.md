@@ -1,11 +1,9 @@
 # Hi 👋 I'm Pratik Poudel
 
-Software Engineering student specializing in **backend development**, **REST APIs**, and **full-stack applications**.  
-Experienced with Django, FastAPI, and React through real-world projects and deployments.
+Software Engineering student focused on **backend development**, **REST APIs**, and **scalable full-stack systems**.  
+Hands-on experience building real applications with Django, FastAPI, and React.
 
-📍 Nepal  
-📧 pratikpoudel1110@email.com  
-🌐 https://www.poudel-pratik.com.np  
+📍 Nepal · 📧 pratikpoudel1110@email.com · 🌐 https://www.poudel-pratik.com.np
 
 ---
 
@@ -14,59 +12,35 @@ Experienced with Django, FastAPI, and React through real-world projects and depl
 **Languages:** Python · JavaScript · SQL  
 **Backend:** Django · Django REST Framework · FastAPI · REST APIs  
 **Frontend:** React · HTML · CSS · Tailwind CSS  
-**Databases:** PostgreSQL · MySQL · SQLite · MongoDB  
-**Data / ML:** Pandas · NumPy · Scikit-learn · TensorFlow  
-**Tools:** Git · Postman · Docker · Power BI · Tableau  
-**Platforms:** Linux · VS Code · PyCharm · Jupyter Notebook  
+**Databases:** PostgreSQL · MySQL · MongoDB · SQLite  
+**Data / ML:** Pandas · NumPy · Scikit-learn  
+**Tools:** Git · Postman · Docker · Linux  
 
 ---
 
 ## 💼 Experience
 
-**Full Stack Developer — China Hub Restaurant**  
-*Oct 2025 – Dec 2025*  
-- Built and deployed a full-stack restaurant system using React and Django REST Framework  
-- Designed REST APIs, database models, and responsive UI for real-world operations  
+**Full Stack Developer — Chiya Hub Restaurant**  
+Built and deployed a production-ready restaurant system using Django REST and React.
 
 **Freelance Web Developer**  
-*Jul 2024 – Aug 2024*  
-- Developed and deployed a production-ready portfolio website using React and Django  
-- Handled requirements, implementation, and deployment independently  
+Delivered a client portfolio site with React and Django from requirements to deployment.
 
 ---
 
 ## 📌 Projects
 
-**Hotel Booking Platform**  
-- Django REST backend with PostgreSQL  
-- Search, filtering, caching (30% latency reduction)  
-- Authentication and role-based access  
-
-**Tip Prediction ML App**  
-- Regression-based ML system using Scikit-learn and Pandas  
-- 10K+ records, RMSE 2.3  
-- Django-based UI and Dockerized deployment  
-
-**IoT Smart Monitoring System (Final Year Project)**  
-- ESP32-based sensor network  
-- FastAPI + MongoDB backend for high-frequency data  
-- React dashboard for real-time visualization  
-
----
-
-## 📂 GitHub Focus
-
-- Backend-first architecture  
-- API-driven systems  
-- Practical full-stack and ML projects  
+- **Hotel Booking Platform** — REST backend, auth, search, caching  
+- **Tip Prediction ML App** — Regression model, 10K+ records, Dockerized  
+- **IoT Smart Monitoring System** — FastAPI backend, MongoDB, React dashboard  
 
 ---
 
 ## 🔗 Links
 
 - GitHub: https://github.com/pratik117-dev  
-- LinkedIn: https://www.linkedin.com/in/pratikitspoudel/  
+- LinkedIn: https://www.linkedin.com/in/pratikitspoudel/
 
 ---
 
-*Real projects. Real systems. No fluff.*
+*Backend-first. Real projects. No fluff.*
