@@ -1,16 +1,41 @@
-## Hi there 👋
+# Pratik Poudel 👋
 
-<!--
-**pratik117-dev/pratik117-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student focused on building **practical, maintainable software**.  
+Interested in backend development, web technologies, and solving real problems with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+
+**Languages:** JavaScript · Python · C/C++  
+**Backend:** Node.js · Express  
+**Web:** HTML · CSS  
+**Databases:** MongoDB · MySQL  
+**Tools:** Git · GitHub · Linux · VS Code  
+
+---
+
+## 🚀 What I Do
+
+- Build small, complete projects (not half-finished demos)
+- Learn by shipping and refactoring
+- Focus on clean structure over unnecessary complexity
+
+---
+
+## 📌 Currently Working On
+
+- Backend fundamentals & APIs  
+- Full-stack practice projects  
+- Data Structures & Algorithms  
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/your-username  
+- Email: your-email@example.com  
+
+---
+
+*Learning seriously. Building consistently.*
