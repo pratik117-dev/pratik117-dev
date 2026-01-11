@@ -1,41 +1,72 @@
-# Pratik Poudel 👋
+# Hi 👋 I'm Pratik Poudel
 
-Software engineering student focused on building **practical, maintainable software**.  
-Interested in backend development, web technologies, and solving real problems with code.
+Software Engineering student specializing in **backend development**, **REST APIs**, and **full-stack applications**.  
+Experienced with Django, FastAPI, and React through real-world projects and deployments.
 
----
-
-## ⚙️ Tech Stack
-
-**Languages:** JavaScript · Python · C/C++  
-**Backend:** Node.js · Express  
-**Web:** HTML · CSS  
-**Databases:** MongoDB · MySQL  
-**Tools:** Git · GitHub · Linux · VS Code  
+📍 Nepal  
+📧 pratikpoudel1110@email.com  
+🌐 https://www.poudel-pratik.com.np  
 
 ---
 
-## 🚀 What I Do
+## 🛠️ Tech Stack
 
-- Build small, complete projects (not half-finished demos)
-- Learn by shipping and refactoring
-- Focus on clean structure over unnecessary complexity
-
----
-
-## 📌 Currently Working On
-
-- Backend fundamentals & APIs  
-- Full-stack practice projects  
-- Data Structures & Algorithms  
+**Languages:** Python · JavaScript · SQL  
+**Backend:** Django · Django REST Framework · FastAPI · REST APIs  
+**Frontend:** React · HTML · CSS · Tailwind CSS  
+**Databases:** PostgreSQL · MySQL · SQLite · MongoDB  
+**Data / ML:** Pandas · NumPy · Scikit-learn · TensorFlow  
+**Tools:** Git · Postman · Docker · Power BI · Tableau  
+**Platforms:** Linux · VS Code · PyCharm · Jupyter Notebook  
 
 ---
 
-## 📫 Connect
+## 💼 Experience
 
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com  
+**Full Stack Developer — China Hub Restaurant**  
+*Oct 2025 – Dec 2025*  
+- Built and deployed a full-stack restaurant system using React and Django REST Framework  
+- Designed REST APIs, database models, and responsive UI for real-world operations  
+
+**Freelance Web Developer**  
+*Jul 2024 – Aug 2024*  
+- Developed and deployed a production-ready portfolio website using React and Django  
+- Handled requirements, implementation, and deployment independently  
 
 ---
 
-*Learning seriously. Building consistently.*
+## 📌 Projects
+
+**Hotel Booking Platform**  
+- Django REST backend with PostgreSQL  
+- Search, filtering, caching (30% latency reduction)  
+- Authentication and role-based access  
+
+**Tip Prediction ML App**  
+- Regression-based ML system using Scikit-learn and Pandas  
+- 10K+ records, RMSE 2.3  
+- Django-based UI and Dockerized deployment  
+
+**IoT Smart Monitoring System (Final Year Project)**  
+- ESP32-based sensor network  
+- FastAPI + MongoDB backend for high-frequency data  
+- React dashboard for real-time visualization  
+
+---
+
+## 📂 GitHub Focus
+
+- Backend-first architecture  
+- API-driven systems  
+- Practical full-stack and ML projects  
+
+---
+
+## 🔗 Links
+
+- GitHub: https://github.com/pratik117-dev  
+- LinkedIn: https://www.linkedin.com/in/pratikitspoudel/  
+
+---
+
+*Real projects. Real systems. No fluff.*
